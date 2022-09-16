@@ -1,0 +1,32 @@
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.exe
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.deps.json
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.runtimeconfig.json
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.runtimeconfig.dev.json
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.dll
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ref\ExamenProgramacion.dll
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.pdb
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.AssemblyInfoInputs.cache
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.AssemblyInfo.cs
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.dll
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ref\ExamenProgramacion.dll
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.pdb
+C:\Users\jorge\Desktop\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.genruntimeconfig.cache
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.exe
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.deps.json
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.runtimeconfig.json
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.runtimeconfig.dev.json
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.dll
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\bin\Debug\net5.0\ExamenProgramacion.pdb
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.csproj.AssemblyReference.cache
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.AssemblyInfoInputs.cache
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.AssemblyInfo.cs
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.csproj.CoreCompileInputs.cache
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.dll
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\refint\ExamenProgramacion.dll
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.pdb
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ExamenProgramacion.genruntimeconfig.cache
+D:\SSD\Uni\2° C DSM\ExamenProgramacion\ExamenProgramacion\obj\Debug\net5.0\ref\ExamenProgramacion.dll
